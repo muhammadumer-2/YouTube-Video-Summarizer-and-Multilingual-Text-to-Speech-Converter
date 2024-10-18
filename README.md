@@ -14,8 +14,4 @@
 3. **Translate Summary**: The summary is translated into the target language of your choice.
 4. **Convert to Speech**: The translated summary is converted into speech, and an audio file is generated.
 
-## **Installation**
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <your-repo-link>
